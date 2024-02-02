@@ -1,9 +1,15 @@
 function range(start, end, step = 1) {
-  // Add code.
+let array = [];
+
+if (step = 0){
+  
+
+}
+
 }
 
 function sum(numbers) {
-  // Add code.
+
 }
 
 
